@@ -1,4 +1,4 @@
-package com.butterchurning;
+package com.churning;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

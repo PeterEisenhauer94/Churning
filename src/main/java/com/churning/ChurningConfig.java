@@ -1,4 +1,4 @@
-package com.butterchurning;
+package com.churning;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
