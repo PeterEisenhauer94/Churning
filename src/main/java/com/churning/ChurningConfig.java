@@ -15,6 +15,6 @@ public interface ChurningConfig extends Config
 	)
 	default boolean DisplayOverlay()
 	{
-		return true;
+		return false;
 	}
 }
